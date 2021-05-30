@@ -1,0 +1,57 @@
+Fernando Crespo Banking Database
+Account Table
+
+Table dropped.
+
+
+Table created.
+
+Deposit Account
+
+Table dropped.
+
+
+Table created.
+
+Customer Table
+
+Table dropped.
+
+
+Table created.
+
+Transaction Table
+
+Table dropped.
+
+
+Table created.
+
+Officer Table
+
+Table dropped.
+
+
+Table created.
+
+LoanAccount Table
+
+Table dropped.
+
+
+Table created.
+
+Manager Table
+
+Table dropped.
+
+
+Table created.
+
+Interest Table
+
+Table dropped.
+
+
+Table created.
+

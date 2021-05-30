@@ -1,0 +1,85 @@
+populating the Account table
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+    ACCNUM ACCTYPE                                                CUSTID        
+---------- -------------------------------------------------- ----------        
+   BALANCE INTERESTRATE OPENDATE  INTEREST_ID INTERESTAMOUNT                    
+---------- ------------ --------- ----------- --------------                    
+         1 Checkings                                                1234        
+       200          .08 01-JAN-20        4321           1000                    
+                                                                                
+         2 Checkings                                                1235        
+       100          .05 01-JAN-19        4322            500                    
+                                                                                
+         3 Savings                                                  1236        
+        25            0 01-JAN-17        4323          10000                    
+                                                                                
+
+    ACCNUM ACCTYPE                                                CUSTID        
+---------- -------------------------------------------------- ----------        
+   BALANCE INTERESTRATE OPENDATE  INTEREST_ID INTERESTAMOUNT                    
+---------- ------------ --------- ----------- --------------                    
+         4 Checkings                                                1237        
+       100          .03 01-JAN-18        4324             50                    
+                                                                                
+         5 Checkings                                                1238        
+      1000          .03 14-JUL-95        4325            500                    
+                                                                                
+         6 Checkings                                                1239        
+        50          .03 01-JAN-17        4326            100                    
+                                                                                
+
+    ACCNUM ACCTYPE                                                CUSTID        
+---------- -------------------------------------------------- ----------        
+   BALANCE INTERESTRATE OPENDATE  INTEREST_ID INTERESTAMOUNT                    
+---------- ------------ --------- ----------- --------------                    
+         7 Checkings                                                1240        
+       100          .03 01-JAN-16        4327            300                    
+                                                                                
+         8 Checkings                                                1241        
+       100          .05 06-MAY-95        4328           1000                    
+                                                                                
+         9 Checkings                                                1242        
+       200          .04 01-JAN-15        4329            500                    
+                                                                                
+
+    ACCNUM ACCTYPE                                                CUSTID        
+---------- -------------------------------------------------- ----------        
+   BALANCE INTERESTRATE OPENDATE  INTEREST_ID INTERESTAMOUNT                    
+---------- ------------ --------- ----------- --------------                    
+        10 Checkings                                                1243        
+       200          .04 01-JAN-14        4330           1000                    
+                                                                                
+
+10 rows selected.
+
+SQL> @325projectDB

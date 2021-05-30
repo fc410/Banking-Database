@@ -1,0 +1,74 @@
+Analysis 1:
+I want to know all the account numbers that are late on their
+monthly loan payments
+
+Banking Analysis                                                                                                         12DEC2020                                                                                                               Page:   1
+Account Number  Dept Owed STATUS                                                                                                                                                                                                                          
+-------------- ---------- --------------------------------------------------                                                                                                                                                                              
+             1       1000 Late                                                                                                                                                                                                                            
+             4        900 Late                                                                                                                                                                                                                            
+             6       1000 Late                                                                                                                                                                                                                            
+             7       1000 Late                                                                                                                                                                                                                            
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                       Analysis End                                                                                                                       
+
+Analysis 2:
+Give me the officer that oversees each manager
+
+Banking Analysis                                                                                                         12DEC2020                                                                                                               Page:   1
+OFFICERNAME                                        MANAGERNAME                                                                                                                                                                                            
+-------------------------------------------------- --------------------------------------------------                                                                                                                                                     
+Peacock, Marlene                                   Wright, Robert                                                                                                                                                                                         
+Begley, Iola                                       Garner, Gilbert                                                                                                                                                                                        
+Layne, Brian                                       Obrien, Joe                                                                                                                                                                                            
+Abner, Isabella                                    Farley, Oscar                                                                                                                                                                                          
+Hines, Milton                                      Mclamb, Thomas                                                                                                                                                                                         
+Smith, Carrie                                      Wike, Stella                                                                                                                                                                                           
+Nelson, Lynn                                       Barnes, Madeline                                                                                                                                                                                       
+Woodman, Edward                                    Williams, Jermaine                                                                                                                                                                                     
+Collins, John                                      Smith, Donald                                                                                                                                                                                          
+Berrios, Clinton                                   Deady Jeffrey                                                                                                                                                                                          
+
+
+
+
+
+                                                                                                                       Analysis End                                                                                                                       
+
+10 rows selected.
+
+Analysis 3:
+I want to find out the name from a particular cutomer ID
+
+Banking Analysis                                                                                                         12DEC2020                                                                                                               Page:   1
+    ACCNUM    CUST_ID NAME                                               DOB       CONTACT                                                                                                                                                                
+---------- ---------- -------------------------------------------------- --------- --------------------------------------------------                                                                                                                     
+         1       1234 Kirby, Ross                                        24-JUL-90 457-92-7897                                                                                                                                                            
+         2       1235 Senter, Robert                                     12-JUN-80 707-432-3456                                                                                                                                                           
+         3       1236 Rodriguez, Maria                                   03-APR-89 707-646-6545                                                                                                                                                           
+         4       1237 Bartley, Pamela                                    04-MAY-01 707-333-7777                                                                                                                                                           
+         5       1238 Arguete, Steve                                     29-JAN-96 619-450-3036                                                                                                                                                           
+         6       1239 Senter, Robert                                     12-JUN-99 639-343-3432                                                                                                                                                           
+         7       1240 Martin, Nicole                                     15-APR-79 510-442-1106                                                                                                                                                           
+         8       1241 Mundell, Lena                                      30-NOV-84 619-434-5667                                                                                                                                                           
+         9       1242 Salazar, Miguel                                    28-AUG-95 707-546-8882                                                                                                                                                           
+        10       1243 Crespo, Fernando                                   14-JUL-95 707-444-1234                                                                                                                                                           
+
+
+
+
+
+                                                                                                                       Analysis End                                                                                                                       
+
+10 rows selected.
+

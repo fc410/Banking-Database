@@ -1,0 +1,21 @@
+Fernando Crespo
+CS 325 - Fall 2020
+December 11th, 2020
+
+I have chosen to choose my own scenario, I would like to make a database for a banking institution where people can withdraw and deposit
+money from their accounts, where an officer oversees the manager, transactions, and creates accounts and loan accounts.
+
+5 questions:
+1.) Does customer X have multiple accounts open, is so what kind of accounts?
+2.) Does customer X have any unpaid debt this month?
+3.) Is there any customer with an overdrafted account today?
+4.) How many checking or saving accounts were open this past week?
+5.) Does customer x make a deposit of x amount of dollars?
+
+
+Buisness Rules:
+1.) If any account is overdrafted and is not paid for by the end of the day charge an extra $5.
+2.) Every account must have a name, address, and social.
+3.) Must be 18 years or older to open up a checkings account.
+4.) A customer cannot have more than 3 accounts.
+5.) Customers must pay an annual fee of $10 to keep their account opened.

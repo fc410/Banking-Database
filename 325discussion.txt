@@ -1,0 +1,18 @@
+Fernando Crespo
+CS 325 - Fall 2020
+December 11th, 2020
+
+My database pretty much simulates a banking insitution in which data from
+customers, transactions, managers, and officers are stored into their own
+tables so they can be used to analyze to improve perfomance, to charge
+people yearly for using their bank or monthly on their loan accounts. The 
+database can also help the company be more effiecient in the way where they
+can check to see how long each customer is taking for each deposit, withdraw 
+or time spent on an appointment. I have made it so that the officer oversees 
+the manager and trascations and creates both accounts and loan accounts, while
+the manager approves loan accounts and manages the loan table. Each account 
+has a loan account that check to see if they late on their monthly loan account
+and if they are they can get charged an extra $5 a day from when their payment
+was due. Every customer, employee and officer must have some type of ID. A
+customer has a customer ID, a manager and officer both have a employee ID. 
+
